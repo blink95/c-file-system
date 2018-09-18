@@ -1,0 +1,175 @@
+disk initialized
+foo created
+foo opened 1
+60 bytes written
+10 bytes written
+position is 55
+xxxxxyyyyy
+foo
+disk saved
+
+disk restored
+foo opened 1
+xxx
+error
+1 closed
+foo
+
+
+disk restored
+a created
+b created
+c created
+d created
+e created
+f created
+g created
+h created
+i created
+j created
+k created
+l created
+m created
+n created
+o created
+p created
+q created
+r created
+s created
+t created
+u created
+v created
+error
+error
+error
+error
+error
+error
+
+error
+20 bytes written
+foo
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+a destroyed
+error
+foo
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+a created
+a opened 1
+192 bytes written
+position is 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0 bytes written
+position is 180
+12 bytes written
+position is 180
+12 bytes written
+error
+error
+foo
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+a destroyed
+error
+error
+b opened 1
+c opened 2
+d opened 3
+error
+b destroyed
+error
+v opened 1
+
+disk restored
+a created
+a opened 1
+65 bytes written
+64 bytes written
+position is 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhkPkNAME=ConsoleSystemDrive=C:SystemRoot=C:\WINDOW
+
+
+disk restored
+foo
+a created
+a opened 1
+a destroyed
+
+disk restored
+
+disk restored
+b created
+b opened 1
+50 bytes written
+22 bytes written
+disk saved
+
+disk restored
+b opened 1
+position is 49
+xyyyyyyyyyyyyyyyyyyyyyyP
+k:\WINDOWS\system
+position is 49
+xyyyyyyyyyyyyyyyyyyyyyy

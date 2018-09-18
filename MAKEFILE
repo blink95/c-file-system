@@ -1,0 +1,13 @@
+CC = gcc
+CFLAGS = -I.
+PROGRAM1 = CFile
+
+all: prog1
+
+prog1:
+	$(CC) -o $(PROGRAM1) CFile.c $(CFLAGS)
+
+
+clean:
+	rm $(PROGRAM)
+

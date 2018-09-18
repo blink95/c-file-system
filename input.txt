@@ -1,0 +1,110 @@
+in
+cr foo
+op foo
+wr 1 x 60
+wr 1 y 10
+sk 1 55
+rd 1 10
+dr
+sv disk0.txt
+
+in disk0.txt
+op foo
+rd 1 3
+cr foo
+cl 1
+dr
+
+
+in
+cr a
+cr b
+cr c
+cr d
+cr e
+cr f
+cr g
+cr h
+cr i
+cr j
+cr k
+cr l
+cr m
+cr n
+cr o
+cr p
+cr q
+cr r
+cr s
+cr t
+cr u
+cr v
+cr w
+cr x
+cr y
+cr z
+cr a
+cr b
+
+cl 1
+wr 1 x 20
+dr
+de a
+cl 3
+dr
+cr a
+op a
+wr 1 x 192
+sk 1 0
+rd 1 193
+wr 1 y 50
+sk 1 180
+wr 1 p 30
+sk 1 180
+wr 1 z 30
+cl 2
+op a
+dr
+de a
+cl 1
+op a
+op b
+op c
+op d
+op e
+de b
+op w
+op v
+
+in
+cr a
+op a
+wr 1 x 65
+wr 1 x 64
+sk 1 0
+rd 1 65
+rd 1 127
+rd 1 200
+
+in
+dr
+cr a
+op a
+de a
+
+in
+
+in
+cr b
+op b
+wr 1 x 50
+wr 1 y 22
+sv disk1.txt
+
+in disk1.txt
+op b
+sk 1 49
+rd 1 24
+rd 1 23
+sk 1 49
+rd 1 23
